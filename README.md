@@ -1,4 +1,6 @@
 # HR Analytics Dashboard - Employee Insights
+![Hr_Analytics-Dashboard_PNG](https://github.com/user-attachments/assets/60b589f0-e160-49c2-bc0a-21d8b8d43d3c)
+
 
 ## Introduction
 
